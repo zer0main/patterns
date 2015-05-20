@@ -24,8 +24,9 @@ encourage controller to manipulate the model again.
 
 #### Examples
 
-My first project where I used MVC: [bin_game_mvc][bin_game]
-Project with modified MVC: [battleship][battleship]
+
+ - My first project where I used MVC: [bin_game_mvc][bin_game]
+ - Project with modified MVC: [battleship][battleship]
 
 #### Useful links
 
